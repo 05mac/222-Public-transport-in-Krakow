@@ -1,0 +1,44 @@
+[
+  {
+    "linia": "50",
+    "typ_pojazdu": "Tramwaj",
+    "przystanek_poczatkowy": "Czerwone Maki P+R",
+    "przystanek_koncowy": "Kleparz",
+    "czestotliwosc_min": 10
+  },
+  {
+    "linia": "139",
+    "typ_pojazdu": "Autobus",
+    "przystanek_poczatkowy": "Kombinat",
+    "przystanek_koncowy": "Nowy Biezanow P+R",
+    "czestotliwosc_min": 15
+  },
+  {
+    "linia": "4",
+    "typ_pojazdu": "Tramwaj",
+    "przystanek_poczatkowy": "Bronowice Male",
+    "przystanek_koncowy": "Wzgorza Krzeslawickie",
+    "czestotliwosc_min": 20
+  },
+  {
+    "linia": "208",
+    "typ_pojazdu": "Autobus",
+    "przystanek_poczatkowy": "Dworzec Glowny Wschod",
+    "przystanek_koncowy": "Krakow Airport",
+    "czestotliwosc_min": 60
+  },
+  {
+    "linia": "18",
+    "typ_pojazdu": "Tramwaj",
+    "przystanek_poczatkowy": "Krowodrza Gorka",
+    "przystanek_koncowy": "Czerwone Maki P+R",
+    "czestotliwosc_min": 10
+  },
+  {
+    "linia": "179",
+    "typ_pojazdu": "Autobus",
+    "przystanek_poczatkowy": "Os. Kurdwanow",
+    "przystanek_koncowy": "Dworzec Glowny Zachod",
+    "czestotliwosc_min": 12
+  }
+]
