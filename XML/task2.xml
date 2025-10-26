@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DworzecGlowny>
+    <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+    
+     <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+    
+     <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+
+     <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+
+     <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+
+     <bus>
+        <numerLini>50</numerLini>
+        <godzinaPrzyjazdu>12:00</godzinaPrzyjazdu>
+        <godzinaOdjazdu>12:05</godzinaOdjazdu>
+        <iloscOsob>53</iloscOsob>
+    </bus>
+
+</DworzecGlowny>
