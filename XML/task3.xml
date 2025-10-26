@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportPubliczny>
+
+   <linia id="T1">
+        <Pojazd model="Pesa" ilosc_wagonow="3">Tramwaj</Pojazd>
+        <Typ kategoria="naped" klasa="miejski">Kolowy</Typ>
+        <PrzystanekPoczatkowy strefa="A" kod_przystanku="CM01">Czerwone Maki</PrzystanekPoczatkowy>
+        <PrzystanekKoncowy strefa="A" kod_przystanku="KL02">Kleparz</PrzystanekKoncowy>
+    </linia>
+
+    <linia id="T1">
+        <Pojazd model="Pesa" ilosc_wagonow="3">Tramwaj</Pojazd>
+        <Typ kategoria="naped" klasa="miejski">Kolowy</Typ>
+        <PrzystanekPoczatkowy strefa="A" kod_przystanku="CM01">Czerwone Maki</PrzystanekPoczatkowy>
+        <PrzystanekKoncowy strefa="A" kod_przystanku="KL02">Kleparz</PrzystanekKoncowy>
+    </linia>
+
+    <linia id="T1">
+        <Pojazd model="Pesa" ilosc_wagonow="3">Tramwaj</Pojazd>
+        <Typ kategoria="naped" klasa="miejski">Kolowy</Typ>
+        <PrzystanekPoczatkowy strefa="A" kod_przystanku="CM01">Czerwone Maki</PrzystanekPoczatkowy>
+        <PrzystanekKoncowy strefa="A" kod_przystanku="KL02">Kleparz</PrzystanekKoncowy>
+    </linia>
+
+    <linia id="T1">
+        <Pojazd model="Pesa" ilosc_wagonow="3">Tramwaj</Pojazd>
+        <Typ kategoria="naped" klasa="miejski">Kolowy</Typ>
+        <PrzystanekPoczatkowy strefa="A" kod_przystanku="CM01">Czerwone Maki</PrzystanekPoczatkowy>
+        <PrzystanekKoncowy strefa="A" kod_przystanku="KL02">Kleparz</PrzystanekKoncowy>
+    </linia>
+</transportPubliczny>
