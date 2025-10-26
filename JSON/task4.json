@@ -1,0 +1,18 @@
+{
+  "pojazd_id": "T50-Krakowiak",
+  "linia": 50,
+  "czy_aktywny": true,
+  "predkosc_max_kmh": 70,
+  "zajezdnia": "Podgórze",
+  "pojemnosc_procentowa": 45.5,
+  "najblizsze_odjazdy": [
+    "14:05",
+    "14:25",
+    "14:45"
+  ],
+  "dane_techniczne": {
+    "model": "Pesa 2014N",
+    "dlugosc_m": 42.83,
+    "niskopodlogowy": true
+  }
+}
